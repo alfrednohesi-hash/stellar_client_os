@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-847-feat-backend-campaign-email-notifications",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-847-feat-backend-campaign-email-notifications": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-847-feat-backend-campaign-email-notifications",
+    "origin"
+  ]
+}
